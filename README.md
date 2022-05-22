@@ -1,5 +1,5 @@
 # python-binance-futures-v2
-with binance-futures-connector-python library...
+with binance-futures-connector-python library...:
 
 [binance-futures-connector-python](https://github.com/Binance-docs/binance-futures-connector-python)
 
